@@ -1,12 +1,12 @@
-# Deploy All The Things
+ # Deploy All The Things
 
-##Fourth Project in the OPS200 * Module @ San Diego Code School
+## Fourth Project in the OPS200 * Module @ San Diego Code School
 
-#Stay tuned today, KTRAV Channel 13 We will be bringin you, your local headlines with: 
+# Stay tuned today, KTRAV Channel 13 We will be bringin you, your local headlines with: 
 
-#Author - Michel Roberts JR.
+# Author - Michel Roberts JR.
 
-#Modified by Travis Ripley, * Started Monday April 22nd, 2019 10:30am
+# Modified by Travis Ripley, * Started Monday April 22nd, 2019 10:30am
 
 ## Right after this commercial break:
 
