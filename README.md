@@ -1,4 +1,15 @@
-# Deliver it Well - Circle CI
+# Deploy All The Things
+
+##Fourth Project in the OPS200 * Module @ San Diego Code School
+
+#Stay tuned today, KTRAV Channel 13 We will be bringin you, your local headlines with: 
+
+#Author - Michel Roberts JR.
+
+#Modified by Travis Ripley, * Started Monday April 22nd, 2019 10:30am
+
+## Right after this commercial break:
+
 
 ## Introduction
 
@@ -72,3 +83,11 @@ machine:
 
 ## Bonus
 - Figure out how to deploy to AWS instead of Heroku
+
+
+#Thank you for taking the time to look at my projects,
+
+https://enigmatic-refuge-57816.herokuapp.com/
+
+#Also please follow my progress on youtube: 
+https://www.youtube.com/channel/UCXv4p-lDYeWXPlnoRFYCSUg
